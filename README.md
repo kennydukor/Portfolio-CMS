@@ -1,2 +1,3 @@
-# Portfolio-CMS
-My porfolio CMS
+# Strapi application
+
+A quick description of your strapi application
