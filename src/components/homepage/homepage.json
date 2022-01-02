@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_homepage_homepages",
+  "info": {
+    "displayName": "homepage",
+    "icon": "home"
+  },
+  "options": {},
+  "attributes": {
+    "introduction": {
+      "type": "richtext"
+    },
+    "affiliations": {
+      "displayName": "affiliations",
+      "type": "component",
+      "repeatable": true,
+      "component": "affiliations.affiliations"
+    },
+    "articles": {
+      "type": "component",
+      "repeatable": true,
+      "component": "articles.articles"
+    },
+    "blog": {
+      "displayName": "updates",
+      "type": "component",
+      "repeatable": true,
+      "component": "updates.updates"
+    }
+  }
+}

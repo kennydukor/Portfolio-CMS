@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_updates_updates",
+  "info": {
+    "displayName": "updates",
+    "icon": "blog"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "body": {
+      "type": "richtext"
+    }
+  }
+}
