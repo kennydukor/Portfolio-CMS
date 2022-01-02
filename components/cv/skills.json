@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_cv_skills",
+  "info": {
+    "name": "skills",
+    "icon": "arrow-circle-right"
+  },
+  "options": {},
+  "attributes": {
+    "programming": {
+      "type": "component",
+      "repeatable": false,
+      "component": "cv.programming"
+    },
+    "ml": {
+      "type": "component",
+      "repeatable": false,
+      "component": "cv.ml"
+    },
+    "cloud_devops": {
+      "type": "component",
+      "repeatable": false,
+      "component": "cv.cloud-devops"
+    },
+    "planning": {
+      "type": "component",
+      "repeatable": false,
+      "component": "cv.planning"
+    }
+  }
+}

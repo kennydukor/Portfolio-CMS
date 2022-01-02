@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_cv_online_courses",
+  "info": {
+    "name": "online courses",
+    "icon": "align-right"
+  },
+  "options": {},
+  "attributes": {
+    "course": {
+      "type": "string"
+    },
+    "platform": {
+      "type": "string"
+    }
+  }
+}

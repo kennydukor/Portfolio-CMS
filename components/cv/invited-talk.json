@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_cv_invited_talks",
+  "info": {
+    "name": "invited talk",
+    "icon": "arrow-circle-down"
+  },
+  "options": {},
+  "attributes": {
+    "desc": {
+      "type": "richtext"
+    }
+  }
+}

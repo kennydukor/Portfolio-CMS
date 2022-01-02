@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_cv_organising_commitees",
+  "info": {
+    "name": "organising_commitee",
+    "icon": "archway"
+  },
+  "options": {},
+  "attributes": {
+    "desc": {
+      "type": "richtext"
+    }
+  }
+}

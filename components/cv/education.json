@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_cv_educations",
+  "info": {
+    "name": "Education",
+    "icon": "balance-scale"
+  },
+  "options": {},
+  "attributes": {
+    "Degree": {
+      "type": "string"
+    },
+    "school": {
+      "type": "string"
+    },
+    "star_date": {
+      "type": "date"
+    },
+    "end_date": {
+      "type": "date"
+    }
+  }
+}

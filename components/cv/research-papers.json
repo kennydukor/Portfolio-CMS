@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_cv_research_papers",
+  "info": {
+    "name": "Research Papers",
+    "icon": "audio-description"
+  },
+  "options": {},
+  "attributes": {
+    "list": {
+      "type": "richtext"
+    }
+  }
+}

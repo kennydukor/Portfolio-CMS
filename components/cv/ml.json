@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_cv_mls",
+  "info": {
+    "name": "ml",
+    "icon": "angle-double-left"
+  },
+  "options": {},
+  "attributes": {
+    "list": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_cv_mentorships",
+  "info": {
+    "name": "mentorship",
+    "icon": "arrows-alt"
+  },
+  "options": {},
+  "attributes": {
+    "desc": {
+      "type": "richtext"
+    }
+  }
+}

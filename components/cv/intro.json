@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_cv_intros",
+  "info": {
+    "name": "intro",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "intro": {
+      "type": "text"
+    }
+  }
+}

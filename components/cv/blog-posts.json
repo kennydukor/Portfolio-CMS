@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_cv_blog_posts",
+  "info": {
+    "name": "blog posts",
+    "icon": "arrows-alt-v"
+  },
+  "options": {},
+  "attributes": {
+    "list": {
+      "type": "richtext"
+    }
+  }
+}

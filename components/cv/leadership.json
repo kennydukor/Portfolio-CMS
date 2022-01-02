@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_cv_leaderships",
+  "info": {
+    "name": "leadership",
+    "icon": "baby-carriage"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "organisation": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "period": {
+      "type": "string"
+    },
+    "duties": {
+      "type": "richtext"
+    }
+  }
+}

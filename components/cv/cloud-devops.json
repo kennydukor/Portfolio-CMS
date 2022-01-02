@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_cv_cloud_devops",
+  "info": {
+    "name": "cloud_devops",
+    "icon": "arrows-alt-h"
+  },
+  "options": {},
+  "attributes": {
+    "list": {
+      "type": "richtext"
+    }
+  }
+}

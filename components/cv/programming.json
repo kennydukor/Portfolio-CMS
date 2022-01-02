@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_cv_programmings",
+  "info": {
+    "name": "programming",
+    "icon": "anchor"
+  },
+  "options": {},
+  "attributes": {
+    "list": {
+      "type": "richtext"
+    }
+  }
+}

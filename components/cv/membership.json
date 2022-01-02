@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_cv_memberships",
+  "info": {
+    "name": "membership",
+    "icon": "arrow-circle-up"
+  },
+  "options": {},
+  "attributes": {
+    "desc": {
+      "type": "richtext"
+    }
+  }
+}

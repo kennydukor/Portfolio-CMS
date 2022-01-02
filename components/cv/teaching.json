@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_cv_teachings",
+  "info": {
+    "name": "teaching",
+    "icon": "band-aid"
+  },
+  "options": {},
+  "attributes": {
+    "desc": {
+      "type": "richtext"
+    }
+  }
+}

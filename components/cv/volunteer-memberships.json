@@ -1,0 +1,35 @@
+{
+  "collectionName": "components_cv_volunteer_memberships",
+  "info": {
+    "name": "volunteer memberships",
+    "icon": "baby"
+  },
+  "options": {},
+  "attributes": {
+    "organising_commitee": {
+      "type": "component",
+      "repeatable": true,
+      "component": "cv.organising-commitee"
+    },
+    "mentorship": {
+      "type": "component",
+      "repeatable": true,
+      "component": "cv.mentorship"
+    },
+    "teaching": {
+      "type": "component",
+      "repeatable": true,
+      "component": "cv.teaching"
+    },
+    "invited_talk": {
+      "type": "component",
+      "repeatable": true,
+      "component": "cv.invited-talk"
+    },
+    "membership": {
+      "type": "component",
+      "repeatable": true,
+      "component": "cv.membership"
+    }
+  }
+}

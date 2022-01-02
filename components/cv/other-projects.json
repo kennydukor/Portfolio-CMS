@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_cv_other_projects",
+  "info": {
+    "name": "other projects",
+    "icon": "atlas"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_cv_honors",
+  "info": {
+    "name": "honors",
+    "icon": "ambulance"
+  },
+  "options": {},
+  "attributes": {
+    "award": {
+      "type": "string"
+    },
+    "program": {
+      "type": "string"
+    },
+    "date_awarded": {
+      "type": "date"
+    }
+  }
+}

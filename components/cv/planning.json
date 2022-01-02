@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_cv_plannings",
+  "info": {
+    "name": "planning",
+    "icon": "arrow-right"
+  },
+  "options": {},
+  "attributes": {
+    "method": {
+      "type": "richtext"
+    },
+    "tools": {
+      "type": "richtext"
+    }
+  }
+}

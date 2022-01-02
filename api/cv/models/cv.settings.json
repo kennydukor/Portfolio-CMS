@@ -1,0 +1,70 @@
+{
+  "kind": "singleType",
+  "collectionName": "cvs",
+  "info": {
+    "name": "CV"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "cv.intro"
+    },
+    "work_experience": {
+      "type": "component",
+      "repeatable": true,
+      "component": "cv.work-experience"
+    },
+    "research_projects": {
+      "type": "component",
+      "repeatable": true,
+      "component": "cv.research-projects"
+    },
+    "other_projects": {
+      "type": "component",
+      "repeatable": true,
+      "component": "cv.other-projects"
+    },
+    "Publications": {
+      "type": "component",
+      "repeatable": false,
+      "component": "cv.publications"
+    },
+    "leadership": {
+      "type": "component",
+      "repeatable": true,
+      "component": "cv.leadership"
+    },
+    "volunteer_memberships": {
+      "type": "component",
+      "repeatable": false,
+      "component": "cv.volunteer-memberships"
+    },
+    "Education": {
+      "type": "component",
+      "repeatable": true,
+      "component": "cv.education"
+    },
+    "online_courses": {
+      "type": "component",
+      "repeatable": true,
+      "component": "cv.online-courses"
+    },
+    "honors": {
+      "type": "component",
+      "repeatable": true,
+      "component": "cv.honors"
+    },
+    "skills": {
+      "type": "component",
+      "repeatable": false,
+      "component": "cv.skills"
+    }
+  }
+}
