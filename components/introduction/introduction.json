@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_introduction_introductions",
+  "info": {
+    "name": "introduction",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "introduction": {
+      "type": "richtext"
+    }
+  }
+}

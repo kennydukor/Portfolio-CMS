@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_articles_articles",
+  "info": {
+    "name": "Articles",
+    "icon": "book-dead"
+  },
+  "options": {},
+  "attributes": {
+    "field": {
+      "type": "string"
+    },
+    "date_published": {
+      "type": "date"
+    },
+    "title": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "text"
+    },
+    "publisher": {
+      "type": "string"
+    }
+  }
+}
