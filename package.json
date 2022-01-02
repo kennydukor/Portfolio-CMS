@@ -15,7 +15,7 @@
     "@strapi/strapi": "4.0.2",
     "pg": "^8.7.1",
     "pg-connection-string": "^2.5.0",
-    "sqlite3": "5.0.2"
+    "sqlite3": "^5.0.2"
   },
   "author": {
     "name": "A Strapi developer"
@@ -25,7 +25,7 @@
   },
   "engines": {
     "node": ">=12.x.x <=16.x.x",
-    "npm": ">=6.0.0"
+    "npm": ">=7.0.0"
   },
   "license": "MIT"
 }
